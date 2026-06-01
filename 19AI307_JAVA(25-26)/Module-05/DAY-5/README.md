@@ -81,7 +81,7 @@ public class SwapSynchronized {
 
 
 ## OUTPUT:
-<img width="1015" height="352" alt="image" src="https://github.com/user-attachments/assets/4ac75d2b-e703-4ae2-9edb-c22bc5dc3b45" />
+<img width="452" height="325" alt="image" src="https://github.com/user-attachments/assets/4aaec135-3e64-439d-a4dc-8fd513ff1666" />
 
 
 ## RESULT:
