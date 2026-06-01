@@ -65,8 +65,7 @@ public class FileCharacterCount {
 
 
 ## OUTPUT:
-<img width="1071" height="303" alt="image" src="https://github.com/user-attachments/assets/8417184e-b934-4c43-a19c-4bc7cec02f4e" />
-
+<img width="1243" height="274" alt="image" src="https://github.com/user-attachments/assets/3365869c-635d-46ea-967c-c27fe15b336c" />
 
 
 ## RESULT:
