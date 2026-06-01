@@ -56,8 +56,7 @@ public class ThreadInfoExample {
 ```
 
 ## OUTPUT:
-<img width="1013" height="265" alt="image" src="https://github.com/user-attachments/assets/f363db08-7cdb-4761-a39c-556870905f3c" />
-
+<img width="752" height="221" alt="image" src="https://github.com/user-attachments/assets/c92565b5-afce-48d4-9a74-d972d078f802" />
 
 
 ## RESULT:
