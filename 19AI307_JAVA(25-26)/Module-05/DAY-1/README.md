@@ -47,7 +47,7 @@ public class FileWriteExample {
 
 
 ## OUTPUT:
-<img width="1039" height="395" alt="image" src="https://github.com/user-attachments/assets/f1eb5219-05ab-4882-990c-ab044ebd6ca8" />
+<img width="944" height="389" alt="image" src="https://github.com/user-attachments/assets/2f2e1e3e-2e5e-44ed-89f0-017ba07fe4ae" />
 
 ## RESULT:
 The program successfully writes the entered text into output.txt using FileWriter.
